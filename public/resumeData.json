@@ -1,138 +1,117 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Hewr Srood",
+    "occupation": "ReactJS ",
+    "description": "Front End Developer by Day, Sleepy boy by Night. #papaReact",
+    "image": "kidLuffy.jpg",
+    "bio": "My name is Hewr, I'm a Fresh Developer new to the development world. and now I'm improving my react knowledge with Clever Programmer ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "Hewr_s@outlook.com",
+    "phone": "+964 750 861 4371",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "Ashty City",
+      "city": "Erbil",
+      "state": "Iraq",
+      "zip": "44001"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://studentsuedukrd-my.sharepoint.com/:w:/g/personal/ensw03518_student_su_edu_krd/Ed_0DdfKh7dDiiuxFRLrUkYBDtAfRHPAl6BHMCOqWF5MEg?e=8zLYLV",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/hewr.dev.9",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/hewr-srood/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/hewr_srood/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/Hewr-Srood",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "That's what i know so far till now",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": " Salahaddin University || College of Engineering  ",
+        "degree": "Bachelor in Software & Informatics Engineering",
+        "graduated": "Present",
+        "description": "Not graduated yet"
+      },
+      {
+        "school": " RE:CODED ",
+        "degree": "Front-End Web development Bootcamp",
+        "graduated": "31 Aug 2020",
+        "description": "Graduated"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
-      },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Local Store",
+        "title": "Computer Technician",
+        "years": " 2016 - April 2019",
+        "description": "Solve hardware and software problems of computer"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "HTML5",
         "level": "100%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "CSS3",
+        "level": "100%"
+      },
+
+      {
+        "name": "Bootstrap, Materialize,..etc",
+        "level": "90%"
       },
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "Vanilia Js",
+        "level": "85%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "ReactJs",
+        "level": "70%"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Figma && Adobe XD && Framer",
+        "level": "70%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Cinemagic",
+        "category": "Movie Project (React, React Bootstrap, Framer Motion)",
+        "image": "cinemagic.png",
+        "url": "https://cinemagic.netlify.app/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "PC Builder",
+        "category": "Prototype (Framer)",
+        "image": "pc-builder.png",
+        "url": "https://framer.com/share/PC-Builder--mm2E2Evl2Myd7WDfQKEF"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Hewr is the kind of guy who works in silence but comes out with amazing stuff!, he is talented and his love for programming and PCs is obvious, I also love that he always add animation to his work! nice one Hewr",
+        "user": "Osama Akb"
       }
     ]
   }
